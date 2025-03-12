@@ -1,0 +1,18 @@
+# Flutter (Frontend)
+food_delivery_frontend/build/
+food_delivery_frontend/.dart_tool/
+food_delivery_frontend/.packages
+food_delivery_frontend/pubspec.lock
+food_delivery_frontend/.flutter-plugins
+food_delivery_frontend/.flutter-plugins-dependencies
+
+# .NET (Backend)
+food_delivery_api/bin/
+food_delivery_api/obj/
+food_delivery_api/appsettings.json
+
+# General Ignore
+.vscode/
+.DS_Store
+Thumbs.db
+node_modules/

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dQZVkdHITl92QPAURLZwXBeBopLKBkE0NhFhu7zxIVU=",
+  "Source": "FoodDeliveryAPI",
+  "BasePath": "_content/FoodDeliveryAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
