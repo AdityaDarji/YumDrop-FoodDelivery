@@ -13,7 +13,7 @@ namespace FoodDeliveryAPI.Models
         public string Name { get; set; } = string.Empty;
 
         [BsonElement("address")]
-        public string Address { get; set; } = string.Empty;
+        public string Address { get; set; } = string.Empty; 
 
         [BsonElement("phone")]
         public string Phone { get; set; } = string.Empty;
